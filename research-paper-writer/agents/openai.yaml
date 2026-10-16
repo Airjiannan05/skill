@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Paper Writer"
+  short_description: "Reader-first CS research paper drafting and revision"
+  default_prompt: "Use the research-paper-writer skill to help draft or revise my computer-science manuscript, preserving the research claims and evidence."
